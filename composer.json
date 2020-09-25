@@ -1,0 +1,15 @@
+{
+    "name": "seb/modern-php",
+    "description": "Premier projet avec Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastien Maloron",
+            "email": "contact@smaloron.eu"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14"
+    }
+}
